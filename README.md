@@ -1,2 +1,2 @@
-git clone https://github.com/usuario/nombre-repositorio.git
+git clone https://github.com/usuario/prueba.git
 cd nombre-repositorio
